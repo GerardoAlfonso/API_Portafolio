@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzy9iii6wvF9D9z6W8XiaMJCv5OsWMPdY+ERKbHqwbvFrhUtRFNED0y/QrNiZQJIjcEPffpUK2UHyegxmDJWaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gerar\\Desktop\\API_Portafolio\\API_Portafolio\\API_Portafolio\\API_Portafolio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\gerar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.17.0\\microsoft.identitymodel.jsonwebtokens.6.17.0.nupkg.sha512",
+    "C:\\Users\\gerar\\.nuget\\packages\\microsoft.identitymodel.logging\\6.17.0\\microsoft.identitymodel.logging.6.17.0.nupkg.sha512",
+    "C:\\Users\\gerar\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.17.0\\microsoft.identitymodel.tokens.6.17.0.nupkg.sha512",
+    "C:\\Users\\gerar\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.17.0\\system.identitymodel.tokens.jwt.6.17.0.nupkg.sha512",
+    "C:\\Users\\gerar\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
